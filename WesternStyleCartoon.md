@@ -15,12 +15,13 @@
 - Visual Notes:
   - Use a factory building to represent the manufacturer.
   - Show the TV clearly labeled "$1000".
+  - Use a building to represent Cutoms Checkpoint 
   - Customs checkpoint has a sign that says: "25% Tariff".
 
 ### Grid (1,2) — Importer Pays Tariff
 - Scene: An importer receives the TV in the U.S. and pays $1000 + $250 tariff.
 - Visual Notes:
-  - The character representing the importer should wear clothing labeled "Importer".
+  - The character representing the importer should wear a formal suit labeled "Importer".
   - The character representing the importer holding the TV with another hand paying to the Customs Checkpoint
   - A dialogue balloon show the price breakdown as: "$1000 original + $250 tariff".
 
@@ -29,6 +30,7 @@
 - Visual Notes:
   - "Importer" should still be labeled on their clothing.
   - The Importer hand the TV to buyer
+  - The buyer should wear cusal cloth like a T-shirt 
   - Show the price tag: $1500 on the TV
   - A dialogue ballon show the price breakdown as: "$1250 cost + $250 margin"
 
