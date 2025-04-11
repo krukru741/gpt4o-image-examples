@@ -7,7 +7,8 @@ Turn a black and white photo in to color photo
 ```
 Create image Restore this black and white photo and colorize it
 ```
-<img src="assets/colorize-photos.png" width="500">
+
+<img src="assets/colorize-photos-before.png" width="500"> <img src="assets/colorize-photos-after.png" width="450">
 
 ---
 
@@ -20,7 +21,7 @@ Remove People from the scene
 ```
 Create image Modify the picture, request to remove all people in the picture, and keep 100% of all street scenes and store scenes
 ```
-<img src="assets/remove-people.png" width="500">
+<img src="assets/remove-people-before.png" width="500"> <img src="assets/remove-people-after.png" width="500">
 
 --- 
 
@@ -33,7 +34,7 @@ Change the perspective of the image to bird's eye view
 ```
 Create image Change the image to the bird-eye perspective
 ```
-<img src="assets/change-perspective.png" width="500">
+<img src="assets/change-perspective-before.png" width="500"> <img src="assets/change-perspective-after.png" width="340">
 
 ---
 

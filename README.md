@@ -31,7 +31,7 @@ Turn a black and white photo in to color photo
 ```
 Create image Restore this black and white photo and colorize it
 ```
-<img src="image-processing/assets/colorize-photos.png" width="500">
+<img src="image-processing/assets/colorize-photos-before.png" width="500"> <img src="image-processing/assets/colorize-photos-after.png" width="450">
 
 ---
 
@@ -44,7 +44,7 @@ Remove People from the scene
 ```
 Create image Modify the picture, request to remove all people in the picture, and keep 100% of all street scenes and store scenes
 ```
-<img src="image-processing/assets/remove-people.png" width="500">
+<img src="image-processing/assets/remove-people-before.png" width="500"> <img src="image-processing/assets/remove-people-after.png" width="500">
 
 
 ### [🔍 See More Image Processing Examples...](image-processing/showcase.md)
