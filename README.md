@@ -261,7 +261,7 @@ Turn an image into a ad poster
 ```
 Create image Turn this image into a McDonalds ad
 ```
-<img src="advertising/assets/image-ad-before.png" width="280"> <img src="advertising/assets/image-ad-after.png" width="300">
+<img src="advertising/assets/image-ad-before.png" width="250"> <img src="advertising/assets/image-ad-after.png" width="300">
 
 ---
 
