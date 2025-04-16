@@ -1,7 +1,7 @@
-# 🧠 Image Generation Playground
+# 🧠 GPT-4o Image Examples
 
 Welcome to the ultimate collection of creative use cases for LLM image generation capabilities.
-This open-source project showcases how you can transform/generate images using tools like `ChatGPT 4o` and `Google Gemini`.
+This open-source project showcases how you can transform/generate images using `GPT 4o`.
 The goal is to colelct all the examples and showcase them in one place to inspire people demonstrate their creativity with AI tools.
 
 Whether you're a developer, artist, or AI enthusiast, this repository is your inspiration hub and contribution platform for exploring the power of multimodal AI.
