@@ -19,6 +19,17 @@ Whether you're a developer, artist, or AI enthusiast, this repository is your in
 
 **🔍 Want to try it yourself? Explore all the usage below or [contribute your own](CONTRIBUTION.md) and join the community of AI image explorers.**
 
+---
+# 📑 Categories
+
+- [Image Processing](#️-Image-Processing)
+- [Style Transfer](#-Style-Transfer)
+- [Logo Design](#-Logo-Design)
+- [Interior Design](#-Interior-Design)
+- [Interface Design](#-Interface-Design)
+- [Advertising](#-Advertising)
+
+---
 
 # 🖼️ Image Processing
 
