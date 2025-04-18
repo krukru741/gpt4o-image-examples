@@ -6,6 +6,10 @@ The goal is to colelct all the examples and showcase them in one place to inspir
 
 Whether you're a developer, artist, or AI enthusiast, this repository is your inspiration hub and contribution platform for exploring the power of multimodal AI.
 
+ > **⚠️Note: As I working on this project, I found [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images).
+ > This project has already got a lot of attention and has a lot of examples in both English and Chinese. Moving forward, I think it make more sense 
+ > for me to contribute to that project instead of maintaining this project as we try to be as collaborative as possible in the open source community and not make copy cat.
+ > I encourage you to star the [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) project and leave your creativity there. 💖**
 
 # ✨ What You’ll Find Here
 
