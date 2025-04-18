@@ -1,4 +1,4 @@
-# 🧠 GPT-4o Image Examples
+# GPT-4o Image Examples 🧠 
 
 Welcome to the ultimate collection of creative use cases for LLM image generation capabilities.
 This open-source project showcases how you can transform/generate images using `GPT 4o`.
